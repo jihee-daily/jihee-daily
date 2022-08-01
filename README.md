@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=random&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!%20jihee's%20profile&fontSize=50)
+
 안녕하세요👋
 
 제 이름은 김지희이고 모바일 프로그래밍과 디자인 요소에 관심이 있어요!
