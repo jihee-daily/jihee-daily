@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!%20jihee's%20profile&fontSize=50&animation=fadeIn)
 
-안녕하세요👋
-
-김지희입니다!
+안녕하세요👋 /n 김지희입니다!
 
 저는 모바일 프로그래밍과 디자인 요소에 관심이 있어요!
 
