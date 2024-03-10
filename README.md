@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome!%20jihee's%20profile&fontSize=50&animation=fadeIn)
 
-## 반갑습니다👋  김지희입니다!
+## 반갑습니다👋  Joy(김지희) 입니다!
 
-저는 모바일 프로그래밍과 디자인 요소에 관심이 있어요!
+요즘에는 모바일 프로그래밍에 관심이 있어요!
 
 전북대학교 소프트웨어공학과에 재학 중이며 관심 분야에 대해 뭐든 배우려고 노력하고 있습니다.
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 📫 나에게 연락하는 방법 :
 <a href="mailto:kim76955@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a> 
-<a href="https://www.instagram.com/x_wlgml/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
+<a href="https://www.instagram.com/x_jihee_joy_x/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
           
 
 <h3 align="center">⚒ Tech Stack ⚒</h3>
@@ -43,12 +43,13 @@ Here are some ideas to get you started:
       
        
 <p align="center">💡used at least once</p>
-<p align="center"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=black">
+<p align="center">
+<img src="https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=UML&logoColor=black">
 <img src="https://img.shields.io/badge/MySQL-4479A17?style=for-the-badge&logo=MySQL&logoColor=black">
 <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/reactjs-E34F26?style=for-the-badge&logo=reactjs&logoColor=black">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=black">
+<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=ReactJS&logoColor=black">
+<img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=NodeJS&logoColor=black">
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=black">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 <br>
 
