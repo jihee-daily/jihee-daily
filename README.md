@@ -35,10 +35,6 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=black">
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=black">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=black"> 
-<br>
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black">
-<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=black">
 </p>
       
        
@@ -46,11 +42,15 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=UML&logoColor=black">
 <img src="https://img.shields.io/badge/MySQL-4479A17?style=for-the-badge&logo=MySQL&logoColor=black">
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=black"> 
 <br>
 <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=ReactJS&logoColor=black">
 <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=NodeJS&logoColor=black">
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=black">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
+<br>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=black">
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=black">
 <br>
 
 
