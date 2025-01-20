@@ -19,12 +19,9 @@ Here are some ideas to get you started:
 
 요즘에는 모바일 프로그래밍에 관심이 있어요!
 
-전북대학교 소프트웨어공학과에 재학 중이며 관심 분야에 대해 뭐든 배우려고 노력하고 있습니다.
-
-
 🌱 현재 Swift/Algorithm을 공부 중 입니다.
 
-📫 나에게 연락하는 방법 :
+📫 연락하는 방법 :
 <a href="mailto:kim76955@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a> 
 <a href="https://www.instagram.com/x_jihee_joy_x/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>
           
